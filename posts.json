@@ -1,6 +1,7 @@
 {
 "series":
 [
+  
 {
 "title" : "နှောင်ကြိုး",
 "status" : "Ongoing",
@@ -49,6 +50,13 @@
 "cover" : "https://2.bp.blogspot.com/-zo9hya9Z1hY/XKJNyywSLgI/AAAAAAAAWBA/O-ZRCHoQqKcBe8DVp25q5dk8LgbriuxaQCLcBGAs/s600/11.jpg",
 "link" : "https://raw.githubusercontent.com/XCProject19/allseriesDbase/master/",
 "tag" : "006"
+},
+{
+"title" : "အပြုစားခံ",
+"status" : "စ - ဆုံး",
+"cover" : "https://3.bp.blogspot.com/-hkvHjWOGYhg/W1SBWpZEJOI/AAAAAAAAGYo/-uIEZQIFqTAC9hyc8q7I30_cpuow-IRfgCLcBGAs/s600/1.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/allseriesDbase/master/",
+"tag" : "007"
 }
 
 ]
